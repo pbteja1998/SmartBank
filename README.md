@@ -1,2 +1,3 @@
-# SmartBank
-A Solidity Smart Contract
+# Solidity Smart Contracts
+- ### SmartBank
+- ### Election
